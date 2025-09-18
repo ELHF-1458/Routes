@@ -31,6 +31,7 @@ Ouvrez **PowerShell** et exécutez :
 ```powershell
 git clone https://github.com/<votre-utilisateur>/routing_api.git
 cd routing_api
+```
 2) Créer et activer un environnement virtuel
 powershell
 Copier le code
